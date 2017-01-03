@@ -14,4 +14,4 @@ This script emulates twitter stream by doing the following :
 ## Usage
 Submit this spark job by using the following command : 
 
-`spark-submit --verbose /home/ubuntu/assignment2/question_b/b1_tweetcount2.py <path_to_monitoring_dir_in_hdfs>`
+`spark-submit --verbose tweetcount.py <path_to_monitoring_dir_in_hdfs>`
